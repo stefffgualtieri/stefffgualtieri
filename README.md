@@ -5,6 +5,8 @@
 - 📫 How to reach me: s.gualtieri5@campus.unimib.it
 - ⚡ Fun fact: in love with music, cinema and videogames
 
+*Check the "Projects" repository to see some of my university projects*
+
 
 
 <!--
